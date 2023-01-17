@@ -2,4 +2,8 @@
 git init
 - para verificar alteracoes no repositorio local
 git status
+- para adicionar todas as alterações do projeto na proxima versao deste
+git add .
+- para gerar uma nova versão
+git commit -m "descreva brevemente o que alterou"
 
