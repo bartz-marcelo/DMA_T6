@@ -1,0 +1,5 @@
+- para iniciar repositório
+git init
+- para verificar alteracoes no repositorio local
+git status
+
